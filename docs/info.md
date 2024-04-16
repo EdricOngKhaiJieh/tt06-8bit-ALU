@@ -17,9 +17,10 @@ You can also include images in this folder and reference them in the markdown. E
 <img width="855" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/4b1be235-ff8c-49b3-baf9-1839c7d9e3d0">
 
 <img width="860" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/ceb27994-52fe-4c49-9328-c49b8463bffc">
+<img width="854" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/6a675739-41bd-4cee-89a9-4a12075d9318">
 
-Example
-<img width="860" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/079669e6-40b6-4d55-9240-e0d325ef9de9">
+
+
 
 
 
