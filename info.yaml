@@ -4,7 +4,7 @@ project:
   title:        "8bit ALU"      # Project title
   author:       "Kevin Ho, Edric Ong"      # Your name
   discord:           # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Building a simple 8 bit unsigned Arithmetic logic unit (ALU)"      # One line description of what your project does
+  description:  "Building a simple 8-bit unsigned Arithmetic logic unit (ALU)"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     100       # Clock frequency in Hz (or 0 if not applicable)
 
