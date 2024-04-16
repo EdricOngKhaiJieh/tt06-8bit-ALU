@@ -8,20 +8,20 @@ project:
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     100       # Clock frequency in Hz (or 0 if not applicable)
 
-  # How many tiles your design occupies? A single tile is about 167x108 uM.
+  # How many tiles your design occupy? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "IN0"
-  ui[1]: "IN1"
-  ui[2]: "IN2"
-  ui[3]: "IN3"
-  ui[4]: "IN4"
-  ui[5]: "IN5"
-  ui[6]: "IN6"
-  ui[7]: "IN7"
+  ui[0]: "EXTIN0"
+  ui[1]: "EXTIN1"
+  ui[2]: "EXTIN2"
+  ui[3]: "EXTIN3"
+  ui[4]: "EXTIN4" 
+  ui[5]: "EXTIN5"
+  ui[6]: "EXTIN6"
+  ui[7]: "EXTIN7"
 
   # Outputs
   uo[0]: "OUT0"
