@@ -8,6 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+<img width="797" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/dca2e6e5-6296-4d4f-9b67-7817a34510b3">
 
 Explain how your project works
 
