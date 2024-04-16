@@ -10,12 +10,19 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 <img width="797" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/dca2e6e5-6296-4d4f-9b67-7817a34510b3">
 
-Explain how your project works
+
 
 ## How to test
+<img width="679" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/70d8c8c2-2ae9-4a81-b423-03d9fa70f2ae">
+<img width="855" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/4b1be235-ff8c-49b3-baf9-1839c7d9e3d0">
 
-Explain how to use your project
+<img width="860" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/ceb27994-52fe-4c49-9328-c49b8463bffc">
+
+Example
+<img width="860" alt="image" src="https://github.com/DrHOTpeper/tt06-8bit-ALU/assets/80259537/079669e6-40b6-4d55-9240-e0d325ef9de9">
+
+
+
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Two pushbuttons, one slide switch, one 1k resistor, and 8 LED lights.
