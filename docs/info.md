@@ -26,4 +26,4 @@ You can also include images in this folder and reference them in the markdown. E
 
 
 ## External hardware
-Two pushbuttons, one slide switch, one 1k resistor, and 8 LED lights.
+one pushbuttons, two slide switch, one 1k resistor, and 8 LED lights.
